@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+#myCanvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin: 100px auto;
+    display: block;
+}
